@@ -1,0 +1,3 @@
+[submodule "wikipedia-word-frequency"]
+	path = wikipedia-word-frequency
+	url = git@github.com:dashdanw/wikipedia-word-frequency.git
